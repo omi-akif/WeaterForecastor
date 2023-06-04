@@ -58,5 +58,4 @@ And you have your API to know the temperature
 
 
 
-
-If you want to know about how the model is run, you can view the WeatherForecast.ipynb file. This will show the details of how the model was created.
+<b> If you want to know about how the model is made, you can view the WeatherForecast.ipynb file. This will show you details of how the model was created. <b> 
