@@ -12,7 +12,7 @@ To use this, you need to create a virtual environment using the following comman
 
 <br>
 
-First clone the repository. Then, open up a terminal, and go to the directory where you saved it. Run the following command:
+First clone the repository. Then, open up a terminal, and go to the directory where you saved it. Run the following command to create a virtual enviroment:
 
 
 ```
@@ -20,6 +20,16 @@ First clone the repository. Then, open up a terminal, and go to the directory wh
 python3 -m venv /home/test/weather
 
 ```
+
+Make sure to activate the environment:
+
+```
+source /home/test/weather/bin/activate
+
+```
+
+
+
 
 <br>
 
